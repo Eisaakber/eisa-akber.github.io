@@ -17,7 +17,8 @@ Lightweight and fast
 
 # 🎥 Demo
 
-👉 Screenshot/GIF will be added once you upload the animation image.
+👉 <img width="1255" height="814" alt="image" src="https://github.com/user-attachments/assets/f0d36666-43b3-4ee5-96bf-13cb095ce58c" />
+
 
 📂 Project Structure
 /animate-photo
