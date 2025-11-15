@@ -39,7 +39,7 @@ Movement direction
 Keyframes in CSS
 
 edit:
-<img src="Add your photo in it" alt="My body">
+"<img src="Add your photo in it" alt="My body">"
 
 
 # 🤝 Contributing
